@@ -1,3 +1,4 @@
+<h1>Archived in favor of working on XXAR</h1>
 <p align="center">
   <img src="src/gui/assets/ZZAR-Logo2.svg" alt="ZZAR Logo" width="200"/>
 </p>
